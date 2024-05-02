@@ -1,7 +1,7 @@
 package lfsystem;
 
 
-class Lift
+public class Lift
 {
 	String name;
 	int capacity;
